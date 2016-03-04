@@ -11,20 +11,14 @@ body {
 	font-size: 2em;
 	padding-top: 0px;
 }
-.container {
-	width: 100%;
-	padding: 0px;
-	margin: 0px;
-}
-.container-menu {
+section {
 	background-color: #45C3B8;
-	padding: 10px 15px 10px 15px;
-	margin: 20px;
+	margin-bottom: 15px;	
 }
-li {
+#nav-list li {
 	background-color: lightyellow;
 }
-li:hover {
+#nav-list li:hover {
 	background-color: lightblue;
 }
 
