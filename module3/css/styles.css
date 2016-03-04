@@ -2,7 +2,7 @@ body {
 	font-size: 16px;
 	font-family: Verdana, sans-serif;
 }
-#header-nav {
+.navbar {
 	background-color: #90EE90;
 	border: 0px;
 	border-radius: 0px;	
